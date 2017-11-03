@@ -3,7 +3,7 @@ package org.launchcode.java.demos.java4python;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
+/*
  * Created by LaunchCode
  */
 public class Gradebook {
